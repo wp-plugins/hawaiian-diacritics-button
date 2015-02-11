@@ -1,4 +1,4 @@
-=== Hawaiian Diacritics ===
+=== Hawaiian Diacritics Button ===
 Contributors: (Hawaiian Information Consortium)
 Tags: special characters, Hawaiian Diacritics
 Requires at least: 3.0.1
